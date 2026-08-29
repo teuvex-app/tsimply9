@@ -1,45 +1,52 @@
-# Datenschutzerklärung / Privacy Policy – Tsimply9
+# Datenschutzerklärung für Tsimply9
 
-**Stand:** August 2026  
-**Verantwortlicher:**  
-Teuvex – Lars Teuscher  
+Der Schutz deiner Privatsphäre hat für uns höchste Priorität. Diese Datenschutzerklärung klärt darüber auf, welche Daten die Tsimply9 Tastatur verarbeitet und wie wir sie schützen.
+
+---
+
+### Verantwortliche Stelle:
+**Teuvex** (Inhaber: Lars Teuscher)  
 Dresdner Str. 153  
 01705 Freital, Deutschland  
-E-Mail: support@teuvex.de  
+E-Mail: [support@teuvex.de](mailto:support@teuvex.de)
 
 ---
 
-## 1. Grundsatz: Privacy by Design (Offline First)
-Tsimply9 wurde nach dem Prinzip der Datensparsamkeit entwickelt. Die Tastatur- und Texteingabefunktion arbeitet **vollständig lokal auf Ihrem Endgerät**. 
-
-* Es werden **keine Tastaturanschläge, keine Passwörter, keine Kreditkartendaten und keine getippten Texte** an externe Server oder Dritte übertragen.
-* Es findet kein Tracking, kein Profiling und keine Analyse des Nutzungsverhaltens statt.
+### 1. Tastatureingaben (Kein Keylogging)
+Alle Tastenanschläge und Eingaben, die du mit Tsimply9 tätigst, werden ausschließlich **lokal auf deinem Gerät** verarbeitet. Wir sammeln, speichern oder übermitteln keine deiner Eingaben, Passwörter oder Bankdaten an externe Server.
 
 ---
 
-## 2. Berechtigungen & Datenverarbeitung auf dem Endgerät
+### 2. Persönliches Wörterbuch & Lokale Speicherung
+Wenn du neue Wörter tippst, lernt die Tastatur diese, um dir künftig bessere Vorschläge zu machen. Dieses persönliche Wörterbuch wird **lokal und sicher auf deinem Smartphone** gespeichert. Diese Daten verlassen dein Gerät niemals und werden nicht mit Dritten geteilt.
 
-### a) Lokales persönliches Wörterbuch & Lernfunktion
-* Wenn Sie neue Wörter eingeben und bestätigen, werden diese in einer verschlüsselten bzw. geschützten lokalen Datenbank auf Ihrem Endgerät gespeichert.
-* Diese Daten verlassen zu keinem Zeitpunkt Ihr Gerät und können jederzeit in den App-Einstellungen durch Antippen von *„Persönliches Wörterbuch zurücksetzen“* restlos gelöscht werden.
-
-### b) Mikrofon / Spracheingabe (`RECORD_AUDIO`)
-* Sofern Sie die Spracheingabe (Mikrofon-Taste) nutzen, wird das Audiosignal ausschließlich zur Umwandlung von Sprache in Text verwendet.
-* Die Erkennung erfolgt wahlweise über die integrierte Spracherkennung Ihres Betriebssystems (z. B. Google Speech Services) oder clientseitig im Browser. Tsimply9 selbst speichert und überträgt keine Audioaufnahmen.
-
-### c) Zwischenablage (Clipboard)
-* Wenn Sie Text kopieren oder einfügen, greift die App nur auf die Zwischenablage zu, um Ihnen Schnellvorschläge oder Einfügeoptionen anzubieten. Es erfolgt keine dauerhafte Speicherung oder Weitergabe der Zwischenablage-Inhalte.
-
-### d) Wörterbuch-Downloads (Optionale Sprachpakete)
-* Beim Herunterladen zusätzlicher Sprachpakete lädt die App die reine Wortliste über verschlüsseltes HTTPS von unserem GitHub-Repository herunter. Dabei wird lediglich die technisch notwendige IP-Adresse zur Übertragung der Datei verarbeitet und nicht gespeichert.
+*Löschung:* Du kannst gelernte Wörter jederzeit im Menü **Wörter** einzeln entfernen oder durch das Löschen der App-Daten in den Android-/iOS-Systemeinstellungen vollständig zurücksetzen.
 
 ---
 
-## 3. Ihre Rechte nach der DSGVO
-Sie haben das Recht auf:
-* **Auskunft** über eventuell gespeicherte Daten (Art. 15 DSGVO)
-* **Löschung** Ihrer lokalen Wörterbuchdaten direkt über die App-Einstellungen (Art. 17 DSGVO)
-* **Widerruf** erteilter Berechtigungen (z. B. Mikrofon-Zugriff) jederzeit über die Systemeinstellungen Ihres Geräts.
+### 3. Mikrofon-Berechtigung (Spracheingabe)
+Die App fordert die Berechtigung auf, Audio aufzunehmen (RECORD_AUDIO / Mikrofonzugriff). Diese Berechtigung wird ausschließlich für die Diktierfunktion (Spracheingabe) verwendet, wenn du aktiv die Mikrofontaste drückst. Tsimply9 greift hierfür auf die integrierte Spracherkennung deines Android- bzw. iOS-Systems (z. B. Google Sprachdienste / Apple Diktierfunktion / Web Speech API) zu. Wir selbst zeichnen keine Gespräche auf und speichern keine Audiodaten.
+
+*Hinweis zu Drittanbietern:* Für die Ausführung der Spracherkennung gelten ergänzend die Datenschutzbestimmungen des jeweiligen Systemanbieters.
+
+---
+
+### 4. Keine Internet-Übertragung (Offline-Tastatur)
+Tsimply9 ist als **Offline-Tastatur** konzipiert. Die App selbst hat keine Berechtigungen oder Mechanismen, um deine getippten Daten heimlich ins Internet hochzuladen. Auch bei der optionalen Aktivierung von Zusatzfunktionen unter iOS („Voller Zugriff“) dient dies ausschließlich Systemfunktionen wie Haptik und Soundeffekten und überträgt keine Eingabedaten.
+
+---
+
+### 5. Zwischenablage (Clipboard)
+Um dir das Einfügen von Text zu erleichtern, greift die App auf deine lokale Zwischenablage zu, wenn du Text kopierst. Auch diese Daten werden nur temporär und rein lokal für die Anzeige in der Tastaturleiste verwendet.
+
+---
+
+### 6. Deine Rechte als Nutzer (DSGVO)
+Nach der Datenschutz-Grundverordnung (DSGVO) hast du jederzeit das Recht auf Auskunft über deine verarbeiteten Daten, deren Berichtigung oder Löschung (Art. 15, 16, 17 DSGVO). Da alle Daten ausschließlich lokal auf deinem Endgerät verarbeitet werden (Rechtsgrundlage: Art. 6 Abs. 1 lit. b DSGVO zur Bereitstellung der App-Funktionen), hast du die volle Kontrolle und kannst sie jederzeit löschen. Berechtigungen (z. B. Mikrofonzugriff) kannst du jederzeit in den Systemeinstellungen widerrufen (Art. 6 Abs. 1 lit. a DSGVO). Zudem steht dir ein Beschwerderecht bei einer zuständigen Datenschutz-Aufsichtsbehörde zu.
+
+---
+
+**Stand: August 2026**
 
 Bei Fragen zum Datenschutz erreichen Sie uns unter: **support@teuvex.de**
 
